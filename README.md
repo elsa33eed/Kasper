@@ -1,2 +1,5 @@
 # Kasper
-This is my "Kasper" website template.
+This is "Kasper" my website template. This template use HTML & CSS language.
+
+### UPDATE
+01) 
